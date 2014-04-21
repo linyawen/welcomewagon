@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>F_RegistViewController</key>
+	<string>注册</string>
+	<key>F_LoginWithAccountController</key>
+	<string>登录 -- coco 账号</string>
+	<key>F_LoginWithPhoneController</key>
+	<string>登录 -- 手机号</string>
+	<key>F_UserCompleteViewController</key>
+	<string>完善个人信息</string>
+	<key>F_AuthViewController</key>
+	<string>获取验证码</string>
+	<key>F_ForgetPwdController</key>
+	<string>忘记密码</string>
+	<key>New item - 6</key>
+	<string></string>
+	<key>New item - 7</key>
+	<string></string>
+	<key>New item - 8</key>
+	<string></string>
+</dict>
+</plist>

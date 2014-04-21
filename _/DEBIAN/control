@@ -1,0 +1,10 @@
+Package: com.yourcompany.welcomewagon
+Name: WelcomeWagon
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Linyw
+Author: Linyw
+Section: Tweaks
+Version: 0.0.1-244
+Installed-Size: 916
